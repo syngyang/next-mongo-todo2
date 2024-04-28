@@ -18,9 +18,7 @@ export default function RootLayout({ children }) {
           <div className='mt-8'>
             {children}
           </div>
-          
         </div>
-        
       </body>
     </html>
   )
